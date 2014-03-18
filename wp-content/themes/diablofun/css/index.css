@@ -260,6 +260,8 @@ ul.contact-details li { padding-left:40px; line-height:32px; }
 #scrollUp { position:fixed; top:0; left:0; bottom:0; width:40px; background:#000; opacity: 0.0; filter: alpha(opacity = 0); cursor:pointer; z-index:999; }
 #scrollUp img { position:absolute; bottom:20px; }
 
-
+.smthemes{
+    display: none;
+}
 
 

@@ -91,7 +91,7 @@ else echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:
 		<?php smt_mobile_menu('sec-menu'); ?>
 		<?php smt_mobile_menu('main-menu'); ?>
 		
-		<div id='mainmenu-container'>
+		<div id='mainmenu-container' style="display: none;">
 			<div id='mainmenu'>
 				<?php $nav_menu_params=array(
 					'depth'=>0,

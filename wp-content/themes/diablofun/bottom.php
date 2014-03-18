@@ -52,6 +52,7 @@ if ($SMTheme->get( 'social', 'showsocial')) {
 					Warning! Your site will not be able to work if these links are edited or deleted.
 					You can buy this theme without footer links online at http://smthemes.com/buy/diablofun/
 				*/ ?>
+                <div>Designed by <a href='<?php echo home_url(); ?>' target='_blank'><?php echo home_url(); ?></a>, thanks to: <a href='<?php echo home_url(); ?>' target='_blank'><?php bloginfo("name"); ?></a></div>
 				<div class='smthemes'>Designed by <a href='http://smthemes.com/' target='_blank'>SMThemes.com</a>, thanks to: <a href='http://crocothemes.com/' target='_blank'>CrocoThemes.com</a>, <a href='http://jdis.co/' target='_blank'>JDis.co</a> and <a href='http://sjthemes.com/' target='_blank'>SJThemes.com</a></div>
 		</div>
 		</div>
