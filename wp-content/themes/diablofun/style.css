@@ -156,7 +156,7 @@ span.page-numbers {
 #content .widget {
 	background:url(images/separator.png) left top repeat-x;
 	margin-top:-4px;
-	padding-top:4px;
+	padding-top:20px;
 }
 #content .widget:first-child {
 	background:none;
