@@ -70,11 +70,15 @@ class Thachpham_Widget extends WP_Widget {
 		
 		//In tiêu đề widget
 		echo $before_title.$title.$after_title;
+        
+
 		
 		// Nội dung trong widget
 		
-		echo "ABC XYZ";
-		
+		?><a href="http://sitecheck2.sucuri.net/results/<?php echo home_url();?>">
+		<center><img src="<?php echo home_url();?>/images/safe-and-secured.png" style="width: 200px;height: 200px;"></center>
+		<center><img src="<?php echo home_url();?>/images/blueseal-blueribbon-large.png" style="width: 240px;height: 200px;"></center></a>
+		<?php 
 		// Kết thúc nội dung trong widget
 		
 		echo $after_widget;

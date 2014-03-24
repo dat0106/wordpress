@@ -549,10 +549,10 @@ span.page-numbers {
   text-decoration: none;
 
   background-color: #000000;
-  background: -webkit-gradient(linear, left top, left bottom, from(#A8465B), to(#6d2f80));
-  background:  -moz-linear-gradient(top, #A8465B, #6d2f80);
-  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#A8465B', endColorstr='#6d2f80');
-  -ms-filter: &quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=#A8465B, endColorstr=#6d2f80)&quot;;
+  background: -webkit-gradient(linear, left top, left bottom, from(#A8465B), to(#301E22));
+  background:  -moz-linear-gradient(top, #A8465B, #301E22);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#A8465B', endColorstr='#301E22');
+  -ms-filter: &quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=#A8465B, endColorstr=#301E22)&quot;;
 }
 
 /* On click */

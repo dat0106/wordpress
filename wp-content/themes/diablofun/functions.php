@@ -252,8 +252,8 @@ if ( function_exists( 'register_nav_menu' ) ) {
 		the_widget('SocialProfiles', $instance, $footerargs);
 		$footerargs['before_widget'] = '<div>';
 		unset($instance);
-		$instance['title']='SMThemes';
-		$instance['text']='Smart free Wordpress themes on SMT Framework';
+		$instance['title']='HackGame4u';
+		$instance['text']="Our HackGame4U  help you win playing your favourite Pre Hacked Games ! We provide the best tools end cheats for  hacks and don't just steal them from other sites. All our hack games are guaranteed working and virus free unlike some of our competitors. So support us, we will bring you the best hack.";
 		the_widget('WP_Widget_Text', $instance, $footerargs);
 		
 	}
